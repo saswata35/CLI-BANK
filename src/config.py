@@ -1,9 +1,9 @@
 RUPEE = "₹"
 
-# Folder and files required to store datas
+# folder and files required  to store data
 
-DB_DIR = "data"
+DB_DIR="data"  # database directory
 
-ACC_JSON = "accounts.json"
+ACC_JSON= "accounts.json"
 
-TXN_JSON = "transactions.json"
+TXN_JSON= "transactions.json"
